@@ -16,7 +16,7 @@
 @property(nonatomic,copy)NSString *registerClassCell;
 @property(nonatomic,copy)NSString *registerNibCell;
 
-//可以设置mj刷新加载
+//可以设置如mj的刷新加载等
 @property(nonatomic,readonly,strong)UICollectionView *collectionView;
 
 //初始化一些设置
